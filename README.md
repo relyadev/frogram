@@ -11,5 +11,5 @@ sudo cp ~/frogram/frogram.py /lib/python${version}
 ```
 ## Auto install
 ```bash
-curl -L -o install.sh "https://github.com/relyadev/frogram/releases/download/v0.0.1/install.sh" && chmod +x install.sh && ./install.sh
+curl -L -o install.sh "https://github.com/relyadev/frogram/blob/main/install.sh" && chmod +x install.sh && ./install.sh
 ```
