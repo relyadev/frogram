@@ -11,5 +11,5 @@ sudo cp ~/frogram/frogram.py /lib/python${version}
 ```
 ## Auto install
 ```bash
-curl -L -o install.sh "https://github.com/relyadev/frogram/blob/main/froginstall.sh" && chmod +x install.sh && ./install.sh
+curl -L -o froginstall.sh "https://github.com/relyadev/frogram/blob/main/froginstall.sh" && chmod +x froginstall.sh && ./froginstall.sh
 ```
