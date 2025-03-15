@@ -1,2 +1,2 @@
 # frogram python libary
-![Untitled (8)](https://github.com/user-attachments/assets/0895e6b7-f141-4a49-b512-afe41c6bc0f2)
+![Untitled (8) (1)](https://github.com/user-attachments/assets/bb680245-f67f-44b8-bff3-e6b20fa8bca6)
