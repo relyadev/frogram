@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+frogram/__init__.py
+frogram/frogram.py
+frogram.egg-info/PKG-INFO
+frogram.egg-info/SOURCES.txt
+frogram.egg-info/dependency_links.txt
+frogram.egg-info/top_level.txt

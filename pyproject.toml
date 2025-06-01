@@ -4,14 +4,13 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "frogram"
-version = "0.1"
+version = "0.0.1"
 authors = [
     {name = "relyadev", email = "relyadev@gmail.com"},
 ]
 description = "frogram is a lightweight Python library for building Telegram bots with a simple and intuitive interface. It provides decorator-based handlers for commands, text messages, and photos, along with convenient methods for sending and managing messages."
 readme = "README.md"
 license = {file = "LICENSE"}
-repository = "https://github.com/relyadev/frogram"
 requires-python = ">=3.10"
 classifiers = [
     "Programming Language :: Python :: 3",
