@@ -1,5 +1,5 @@
 
-# Frogram - Modern Telegram Bot Framework for Python
+# Frogram - Modern Telegram Bot Libary for Python
 
 [![MIT License](https://img.shields.io/badge/license-MIT-red.svg)](LICENSE)
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-green)](https://python.org)
